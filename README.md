@@ -1,6 +1,6 @@
  Digital Marketing Strategy for CRM in UK Cosmetic Industry
 
-This repository contains my academic research and analysis on leveraging social media analytical tools to enhance Customer Relationship Management (CRM) in the UK cosmetic sector, with a specific focus on brands like L'Oréal, Morphe, and NYX.
+This repository contains my research and analysis on leveraging social media analytical tools to enhance Customer Relationship Management (CRM) in the UK cosmetic sector, with a specific focus on brands like L'Oréal, Morphe, and NYX.
 
 ## 📌 Project Highlights
 - Compared digital marketing strategies across brands.
