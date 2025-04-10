@@ -8,6 +8,15 @@ This repository contains my research and analysis on leveraging social media ana
 - Explored the use of AI and AR in personalized marketing.
 - Recommended CRM-focused social media campaigns.
 
+## 🔍 Use of Market Research Tools
+
+### 💄 Digital Marketing Strategy (Cosmetic Industry - UK)
+- **Industry Databases**: Utilized insights from **Statista**, **Mintel**, and **IBISWorld** to understand UK cosmetic market trends, consumer behavior, and emerging digital touchpoints.
+- **Social Media Analytics**: Measured and compared Instagram engagement metrics (followers, likes, comments, ratios) across top brands like L'Oréal, Morphe, NYX, and Sephora.
+- **Thematic Qualitative Analysis**: Applied coding and pattern recognition to consumer-generated content for insights on CRM effectiveness and brand sentiment.
+- **Digital Monitoring Techniques**: Referenced tools such as **sentiment analysis**, **social listening**, and **content mapping** to explore customer engagement and campaign performance.
+
+
 ## 🧠 Key Skills Developed
 - Digital Strategy & CRM
 - Social Media Analytics
